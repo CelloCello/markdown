@@ -43,3 +43,19 @@ Table
 <td>ddd</td>
 </tr>
 </table>
+
+<table>
+<tr>
+  <td>member_name</td>
+  <td>required</td>
+</tr>
+<tr>
+  <td>language</td>
+  <td>required</td>
+</tr>
+<tr>
+  <td>timezone</td>
+  <td>required</td>
+</tr>
+</table>
+
