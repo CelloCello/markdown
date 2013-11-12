@@ -29,3 +29,17 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 id sem consectetuer libero luctus adipiscing.
+
+Table
+=====
+
+<table>
+<tr>
+  <td>aaa</td>
+  <td>bbb</td>
+</tr>
+<tr>
+<td>ccc</td>
+<td>ddd</td>
+</tr>
+</table>
